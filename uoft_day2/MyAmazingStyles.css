@@ -1,0 +1,37 @@
+/** . denote's a class **/
+.Blue {
+  text-align: center;
+  font-size: 50pt;
+  color: rgb(13, 16, 218);
+}
+
+.Red {
+  text-align: center;
+  font-size: 20pt;
+  color: rgb(255, 0, 0);
+}
+
+.Profile_Picture {
+  margin-left: 5cm;
+}
+
+.NewspaperStyle {
+  column-count: 2;
+  margin-left: 7cm;
+  margin-right: 7cm;
+  column-gap: 3cm;
+  font-weight: bold;
+  color: rgb(255, 81, 0);
+  font-size: 20pt;
+  font-family: 'Dancing Script', cursive;
+  column-rule-style: dotted;
+  column-rule-color: rgb(0, 0, 0);
+  text-align: justify;
+}
+
+body {
+  background-image: url(https://www.golf.com/wp-content/uploads/2019/01/torreypinessouth.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}

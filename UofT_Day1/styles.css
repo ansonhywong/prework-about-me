@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+}
+
+/** . denote's a class **/
+.amazing_skills {
+  text-align: center;
+  font-size: 50pt;
+  color: rgb(30, 218, 13);
+}
+
+/**  styling for id, # is id **/
+#link_for_tesla {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 50pt;
+}
